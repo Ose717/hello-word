@@ -4,3 +4,4 @@
 # the repo. unless a later match takes precedence.
 # @globa-owner1 and @globa1-owner2 will be requested for.
 # review when someone open a pull request.
+* globa-owner1 @globl-owner2
